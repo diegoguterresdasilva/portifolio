@@ -1,0 +1,137 @@
+{
+    "basic_info": {
+      "description_header": "Ola",
+      "description": "👋 Eu sou o Diego Guterres da Silva. Trabalho atualmente no front-end com framework React (Javascript), no back-end com framework Laravel (PHP) e no mobile com React Native.Comecei minha carreira de desenvolvedor, quando comecei a desenvolver soluções, para problemas existentes, na antiga empresa em que trabalhei por 10 anos. Comecei desenvolvendo pequenos sistemas web, em php, que usávamos em navegadores de Palms antigos. Então comecei a desenvolver aplicativos integrados ao sistema ERP, trazendo cada vez mais produtividade e soluções. Atualmente sou analista de sistemas (desenvolvedor), uso 'Monday/Jira' para criar o fluxo de trabalho do projeto da empresa atual. Sendo o foco no backend Laravel (PHP) e frontend Jquery/ReactJS. Tenho meus próprios projetos usando outras tecnologias como ReactJS, React native, NodeJS, Java (Android Studio).",
+      "section_name": {
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "Skills",
+        "experience": "Experiências"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Grupo Urbam",
+        "title": "Desenvolvedor Full-Stack React/Laravel",
+        "years": "07/2021 - ate o momento",
+        "mainTech": [
+          "React/Laravel 8"
+        ],
+        "technologies": [
+          "REST API",
+          "JQuery",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "Mysql",
+          "Docker",
+          "AWS",
+          "Laravel"
+        ]
+      },
+      {
+        "company": "Logbev Gestão e Logistica",
+        "title": "Gerente de Desenvolvimento de Sistemas",
+        "years": "08/2019 - 07/2021",
+        "mainTech": [
+          "React/Laravel 8/Android"
+        ],
+        "technologies": [
+          "REST API",
+          "JQuery",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "Mysql",
+          "PHP",
+          "Android Studio"
+        ]
+      },
+      {
+        "company": "Logbev Gestão e Logistica",
+        "title": "Gerente de Desenvolvimento de Sistemas",
+        "years": "05.2013 - 08/2019",
+        "mainTech": [
+          "HTML/CSS/JQUERY/PHP"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JQuery",
+          "JavaScript",
+          "Bootstrap",
+          "PHP"
+        ]
+      }
+    ]
+  }

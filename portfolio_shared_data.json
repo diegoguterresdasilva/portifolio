@@ -1,0 +1,78 @@
+{
+    "basic_info": {
+      "name": "Diego Guterres da Silva",
+      "titles": [ "Full-Stack Developer", "Mobile App Developer", "React", "React Native", "Laravel/PHP" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/diegoguterresdasilva",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/diegoguterresdasilva/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "eu.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-plain",
+          "level": "65"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "65"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "65"
+        },
+        {
+          "name": "Android Studio",
+          "class": "devicon-android-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
