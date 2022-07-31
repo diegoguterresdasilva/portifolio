@@ -31,19 +31,17 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
-	min-height: 450px;
 	width: 100%;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #FFF;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 0px;
 	padding-bottom: 0;
 }
 
@@ -58,14 +56,14 @@ header {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid #ebeaf5;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: #e1e1e1;
 	color: white;
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#000, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -74,9 +72,9 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #FFF;
 	padding-bottom: 10px;
-	padding-top: 80px;
+	padding-top: 10px;
 }
 
 header h1 {
@@ -90,11 +88,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #e1e1e1;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #e1e1e1;
 	height: 25px;
 }
 
@@ -219,7 +217,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #f1f1f1;
 }
 
 .experience-icon {
@@ -233,8 +231,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
-	color: white;
+	background-color: #e1e1e6 !important;
+	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -244,7 +242,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #f1f1f1 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -282,7 +280,7 @@ header h1 {
 .bars li {
 	position: relative;
 	margin-bottom: 60px;
-	background: #ccc;
+	background: #f3f3f3;
 	height: 42px;
 	border-radius: 3px;
 }
@@ -341,7 +339,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #fff;
 	padding-bottom: 5%;
 }
 
@@ -377,11 +375,12 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #d1d1d1;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
+	color: #000;
 }
 
 .section-title {
@@ -390,13 +389,13 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #000;
 	text-align: center;
 }
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: black;
 	text-align: center;
 	position: relative;
 }
@@ -426,3 +425,12 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+.menu {
+	display: flex;
+	align-items: flex-end;
+	justify-content: end;
+	margin-top: 10px;
+}
+.text-white {
+	color: black !important;
+ }
