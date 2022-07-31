@@ -1,12 +1,12 @@
 {
     "basic_info": {
       "description_header": "Ola",
-      "description": "👋 Eu sou o Diego Guterres da Silva. I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Eu sou o Diego Guterres da Silva. Trabalho atualmente no front-end com framework React (Javascript), no back-end com framework Laravel (PHP) e no mobile com React Native.Comecei minha carreira de desenvolvedor, quando comecei a desenvolver soluções, para problemas existentes, na antiga empresa em que trabalhei por 10 anos. Comecei desenvolvendo pequenos sistemas web, em php, que usávamos em navegadores de Palms antigos. Então comecei a desenvolver aplicativos integrados ao sistema ERP, trazendo cada vez mais produtividade e soluções. Atualmente sou analista de sistemas (desenvolvedor), uso 'Monday/Jira' para criar o fluxo de trabalho do projeto da empresa atual. Sendo o foco no backend Laravel (PHP) e frontend Jquery/ReactJS. Tenho meus próprios projetos usando outras tecnologias como ReactJS, React native, NodeJS, Java (Android Studio).",
       "section_name": {
         "about": "Sobre mim",
         "projects": "Projetos",
         "skills": "Skills",
-        "experience": "Experiencias"
+        "experience": "Experiências"
       }
     },
     "projects": [
