@@ -81,6 +81,40 @@
     ],
     "experience": [
       {
+        "company": "Logbev Gestão e Logistica",
+        "title": "Desenvolvedor Full-Stack",
+        "years": "08/2011 - 04/2019",
+        "mainTech": [
+          "HTML/CSS/JQUERY/PHP"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JQuery",
+          "JavaScript",
+          "Bootstrap",
+          "PHP"
+        ]
+      },
+      {
+        "company": "Logbev Gestão e Logistica",
+        "title": "Desenvolvedor Full-Stack React/Laravel",
+        "years": "04/2019 - 07/2021",
+        "mainTech": [
+          "React/Laravel 8/Android"
+        ],
+        "technologies": [
+          "REST API",
+          "JQuery",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "Mysql",
+          "PHP",
+          "Android Studio"
+        ]
+      },
+      {
         "company": "Grupo Urbam",
         "title": "Desenvolvedor Full-Stack React/Laravel",
         "years": "07/2021 - ate o momento",
@@ -97,40 +131,6 @@
           "Docker",
           "AWS",
           "Laravel"
-        ]
-      },
-      {
-        "company": "Logbev Gestão e Logistica",
-        "title": "Desenvolvedor Full-Stack React/Laravel",
-        "years": "08/2019 - 07/2021",
-        "mainTech": [
-          "React/Laravel 8/Android"
-        ],
-        "technologies": [
-          "REST API",
-          "JQuery",
-          "JavaScript",
-          "Bootstrap",
-          "React",
-          "Mysql",
-          "PHP",
-          "Android Studio"
-        ]
-      },
-      {
-        "company": "Logbev Gestão e Logistica",
-        "title": "Desenvolvedor Full-Stack",
-        "years": "05/2013 - 08/2019",
-        "mainTech": [
-          "HTML/CSS/JQUERY/PHP"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "JQuery",
-          "JavaScript",
-          "Bootstrap",
-          "PHP"
         ]
       }
     ]
