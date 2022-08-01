@@ -81,19 +81,22 @@
     ],
     "experience": [
       {
-        "company": "Logbev Gestão e Logistica",
-        "title": "Desenvolvedor Full-Stack",
-        "years": "08/2011 - 04/2019",
+        "company": "Grupo Urbam",
+        "title": "Desenvolvedor Full-Stack React/Laravel",
+        "years": "07/2021 - ate o momento",
         "mainTech": [
-          "HTML/CSS/JQUERY/PHP"
+          "React/Laravel 8"
         ],
         "technologies": [
-          "HTML",
-          "CSS",
+          "REST API",
           "JQuery",
           "JavaScript",
           "Bootstrap",
-          "PHP"
+          "React",
+          "Mysql",
+          "Docker",
+          "AWS",
+          "Laravel"
         ]
       },
       {
@@ -115,22 +118,19 @@
         ]
       },
       {
-        "company": "Grupo Urbam",
-        "title": "Desenvolvedor Full-Stack React/Laravel",
-        "years": "07/2021 - ate o momento",
+        "company": "Logbev Gestão e Logistica",
+        "title": "Desenvolvedor Full-Stack",
+        "years": "08/2011 - 04/2019",
         "mainTech": [
-          "React/Laravel 8"
+          "HTML/CSS/JQUERY/PHP"
         ],
         "technologies": [
-          "REST API",
+          "HTML",
+          "CSS",
           "JQuery",
           "JavaScript",
           "Bootstrap",
-          "React",
-          "Mysql",
-          "Docker",
-          "AWS",
-          "Laravel"
+          "PHP"
         ]
       }
     ]
