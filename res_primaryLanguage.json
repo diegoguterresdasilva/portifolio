@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Ola",
-      "description": "👋 Eu sou o Diego Guterres da Silva. Atualmente trabalho no front-end com framework React (Javascript), no back-end com framework Laravel (PHP) e no mobile com React Native. Uso 'Monday/Jira' para criar o fluxo de trabalho. Iniciei minha carreira em 2011 quando desenvolvi sistemas web em php, numa empresa que prestava serviço para AMBEV. Usávamos esses sistemas em navegadores de Palms antigos, evoluindo com o tempo para aplicativos em android nativo (Android Studio). Os sistemas passaram a ser integrados ao ERP da empresa, trazendo produtividade e controle com redução de custos. Os sistemas que desenvolvi tem foco em logística, atuando nas áreas de Gestão, RH, Financeiro e frota. Usado até hoje e reconhecido pela AmBev como melhor prática na categoria ideia inovadora.",
+      "description": "👋 Eu sou o Diego Guterres da Silva. Atualmente trabalho no front-end com biblioteca React (Javascript), no back-end com framework Laravel (PHP) e no mobile com React Native. Uso 'Monday/Jira' para criar o fluxo de trabalho. Iniciei minha carreira em 2011 quando desenvolvi sistemas web em php, numa empresa que prestava serviço para AMBEV. Usávamos esses sistemas em navegadores de Palms antigos, evoluindo com o tempo para aplicativos em android nativo (Android Studio). Os sistemas passaram a ser integrados ao ERP da empresa, trazendo produtividade e controle com redução de custos. Os sistemas que desenvolvi tem foco em logística, atuando nas áreas de Gestão, RH, Financeiro e frota. Usado até hoje e reconhecido pela AmBev como melhor prática na categoria ideia inovadora.",
       "section_name": {
         "about": "Sobre mim",
         "projects": "Projetos",
@@ -85,7 +85,7 @@
         "title": "Desenvolvedor Full-Stack React/React Native/Laravel",
         "years": "07/2021 - ate o momento",
         "mainTech": [
-          "React/Laravel 8"
+          "React/React Native/Laravel 8"
         ],
         "technologies": [
           "REST API",
