@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Ola",
-      "description": "👋 Eu sou o Diego Guterres da Silva. Trabalho atualmente no front-end com framework React (Javascript), no back-end com framework Laravel (PHP) e no mobile com React Native. Iniciei minha carreira de desenvolvedor em 2011, quando comecei a desenvolver soluções para problemas existentes em uma empresa que trabalhei por 10 anos. Desenvolvi pequenos sistemas web em php, que usávamos em navegadores de Palms antigos, e criei aplicativos integrados ao sistema ERP, trazendo produtividade e soluções. Atualmente sou analista de sistemas (desenvolvedor), uso 'Monday/Jira' para criar o fluxo de trabalho do projeto da empresa atual. Sendo o foco no backend Laravel (PHP) e frontend Jquery/ReactJS. Nos meus projetos pessoais uso outras tecnologias, React native, NodeJS, Java (Android Studio).",
+      "description": "👋 Eu sou o Diego Guterres da Silva. Atualmente trabalho no front-end com biblioteca React (Javascript), no back-end com framework Laravel (PHP) e no mobile com React Native. Uso 'Monday/Jira' para criar o fluxo de trabalho. Iniciei minha carreira em 2011 quando desenvolvi sistemas web em php, numa empresa que prestava serviço para AMBEV. Usávamos esses sistemas em navegadores de Palms antigos, evoluindo com o tempo para aplicativos em android nativo (Android Studio). Os sistemas passaram a ser integrados ao ERP da empresa, trazendo produtividade e controle com redução de custos. Os sistemas que desenvolvi tem foco em logística, atuando nas áreas de Gestão, RH, Financeiro e frota. Usado até hoje e reconhecido pela AmBev como melhor prática na categoria ideia inovadora.",
       "section_name": {
         "about": "Sobre mim",
         "projects": "Projetos",
@@ -82,10 +82,10 @@
     "experience": [
       {
         "company": "Grupo Urbam",
-        "title": "Desenvolvedor Full-Stack React/Laravel",
+        "title": "Desenvolvedor Full-Stack React/React Native/Laravel",
         "years": "07/2021 - ate o momento",
         "mainTech": [
-          "React/Laravel 8"
+          "React/React Native/Laravel 8"
         ],
         "technologies": [
           "REST API",
@@ -102,7 +102,7 @@
       {
         "company": "Logbev Gestão e Logistica",
         "title": "Desenvolvedor Full-Stack React/Laravel",
-        "years": "08/2019 - 07/2021",
+        "years": "04/2019 - 07/2021",
         "mainTech": [
           "React/Laravel 8/Android"
         ],
@@ -120,7 +120,7 @@
       {
         "company": "Logbev Gestão e Logistica",
         "title": "Desenvolvedor Full-Stack",
-        "years": "05/2013 - 08/2019",
+        "years": "08/2011 - 04/2019",
         "mainTech": [
           "HTML/CSS/JQUERY/PHP"
         ],

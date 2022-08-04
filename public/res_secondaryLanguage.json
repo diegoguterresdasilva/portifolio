@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Diego Guterres da Silva. I currently work on the front-end with React framework (Javascript), on the back-end with Laravel framework (PHP) and on mobile with React Native. I started my developer career in 2011, when I started developing solutions to existing problems at a company I worked for for 10 years. I developed small web systems in php, which we used in old Palms browsers, and created applications integrated to the ERP system, bringing productivity and solutions. I am currently a systems analyst (developer), I use 'Monday/Jira' to create the project workflow of the current company. Being the focus on Laravel (PHP) backend and Jquery/ReactJS frontend. In my personal projects I use other technologies, React native, NodeJS, Java (Android Studio).",
+      "description": "👋 I'm Diego Guterres da Silva. Currently I work on the front-end with React library (Javascript), on the back-end with Laravel framework (PHP) and on mobile with React Native. I use 'Monday/Jira' to create the workflow. I started my career in 2011 when I developed web systems in php, in a company that provided services to AMBEV. We used these systems in old Palms browsers, evolving over time to native android applications (Android Studio). The systems started to be integrated with the company's ERP, bringing productivity and control with cost reduction. The systems I developed focus on logistics, working in the areas of Management, HR, Finance and fleet. Used to this day and recognized by AmBev as best practice in the innovative idea category.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -82,10 +82,10 @@
     "experience": [
       {
         "company": "Grupo Urbam",
-        "title": "Full-Stack Developer React/Laravel",
+        "title": "Full-Stack Developer React/React Native/Laravel",
         "years": "07-2021 - present",
         "mainTech": [
-          "React/Laravel 8"
+          "React/React Native/Laravel 8"
         ],
         "technologies": [
           "REST API",

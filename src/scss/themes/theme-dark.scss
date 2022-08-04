@@ -102,7 +102,7 @@ body[data-theme="dark"] {
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
-            color: black;
+            color: white;
          }
       }
    }
@@ -138,5 +138,8 @@ body[data-theme="dark"] {
    .list-inline-item{
       background: #000;
       border-radius: 5px;
+   }
+   .vertical-timeline-element-date {
+      color: white;
    }
 }
