@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Diego Guterres da Silva. Currently I work on the front-end with React library (Javascript), on the back-end with Laravel framework (PHP) and on mobile with React Native. I use 'Monday/Jira' to create the workflow. I started my career in 2011 when I developed web systems in php, in a company that provided services to AMBEV. We used these systems in old Palms browsers, evolving over time to native android applications (Android Studio). The systems started to be integrated with the company's ERP, bringing productivity and control with cost reduction. The systems I developed focus on logistics, working in the areas of Management, HR, Finance and fleet. Used to this day and recognized by AmBev as best practice in the innovative idea category.",
+      "description": "👋 I'm Diego Guterres da Silva. Currently I work on the front-end with React library (Javascript), on the back-end with Laravel framework (PHP) and on mobile with React Native. I use 'Monday/Jira' to create the workflow. I started my career in 2011 when I developed web systems in php, in a company that provided services to AMBEV. We used these systems in old Palms browsers, evolving over time to native android applications (Android Studio). Cost management systems are integrated into the company's ERP, controlling and controlling with cost reduction. Systems that focus on logistics, in the areas of financial management, HR and fleet development. Used today and recognized by AmBev as best practice in the innovative category.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
