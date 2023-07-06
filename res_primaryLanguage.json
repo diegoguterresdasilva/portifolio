@@ -82,7 +82,7 @@
     "experience": [
       {
         "company": "Grupo Urbam",
-        "title": "Desenvolvedor Full-Stack React/React Native/Laravel",
+        "title": "Engenheiro de Software",
         "years": "07/2021 - ate o momento",
         "mainTech": [
           "React/React Native/Laravel 8"
@@ -93,11 +93,15 @@
           "JavaScript",
           "Bootstrap",
           "React",
+          "React Native",
           "Mysql",
           "Docker",
           "AWS",
-          "Laravel"
-        ]
+          "Laravel",
+          "Android Studio",
+          "TypeScript"
+        ],
+        "icon": "fa-react"
       },
       {
         "company": "Logbev Gestão e Logistica",
@@ -115,7 +119,8 @@
           "Mysql",
           "PHP",
           "Android Studio"
-        ]
+        ],
+        "icon": "fa-react"
       },
       {
         "company": "Logbev Gestão e Logistica",
@@ -131,7 +136,25 @@
           "JavaScript",
           "Bootstrap",
           "PHP"
-        ]
+        ],
+        "icon": "devicon-html5-plain"
+      },
+      {
+        "company": "Prefeitura de Mesquita",
+        "title": "Tecnico de informatica",
+        "years": "07-2011 - 05-2013",
+        "mainTech": [
+          "HTML/CSS/JQUERY/PHP"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JQuery",
+          "JavaScript",
+          "Bootstrap",
+          "PHP"
+        ],
+        "icon": "devicon-html5-plain"
       }
     ]
   }
