@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Diego Guterres da Silva",
-      "titles": [ "Full-Stack Developer", "Mobile App Developer", "React", "React Native", "Laravel/PHP" ],
+      "titles": [ "Software Enginner", "Mobile App Developer", "React", "React Native", "Laravel/PHP", "Android Studio" ],
       "social": [
         {
           "name": "github",
@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/diegoguterresdasilva/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/diegoguterresdasilva/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "eu.jpeg"
